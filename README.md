@@ -1,2 +1,2 @@
 # PortfolioProject
-This is a collection of my Portfolio Projects based on different aspects of Data Science.
+These are some SQL queries done on the existing COVID-19 data from the public Health database. 
